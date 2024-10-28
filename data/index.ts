@@ -1,5 +1,5 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'Epic Essentials Blog',
 }
 
 export const footerData = {
